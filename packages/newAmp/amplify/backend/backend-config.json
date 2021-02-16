@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "newampf5655b52": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
