@@ -10,11 +10,6 @@
       "StackName": "amplify-newamp-dev-145721",
       "StackId": "arn:aws:cloudformation:ap-south-1:670990119272:stack/amplify-newamp-dev-145721/2d933140-7039-11eb-a4bf-06d8b429ea60",
       "AmplifyAppId": "d3lq4ltmthkys2"
-    },
-    "categories": {
-      "auth": {
-        "newampf5655b52": {}
-      }
     }
   }
 }

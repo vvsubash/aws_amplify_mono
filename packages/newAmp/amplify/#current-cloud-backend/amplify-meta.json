@@ -12,26 +12,6 @@
       "AmplifyAppId": "d3lq4ltmthkys2"
     }
   },
-  "auth": {
-    "newampf5655b52": {
-      "service": "Cognito",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false,
-      "providerMetadata": {
-        "s3TemplateURL": "https://s3.amazonaws.com/amplify-newamp-dev-145721-deployment/amplify-cfn-templates/auth/newampf5655b52-cloudformation-template.yml",
-        "logicalId": "authnewampf5655b52"
-      },
-      "lastPushTimeStamp": "2021-02-16T09:33:30.481Z",
-      "output": {
-        "UserPoolId": "ap-south-1_awtR7meJk",
-        "AppClientIDWeb": "3l3fucvmji303o63hi0p41qjes",
-        "AppClientID": "5oukq2oi034gruj89i28c3q15q",
-        "IdentityPoolId": "ap-south-1:37f61761-9086-4b23-b6be-c149c86f5d1e",
-        "IdentityPoolName": "newampf5655b52_identitypool_f5655b52__dev",
-        "UserPoolName": "newampf5655b52_userpool_f5655b52"
-      },
-      "lastPushDirHash": "ERYC8VjkqO+yM19eQiSMDNLhQVc="
-    }
-  }
+  "auth": {},
+  "api": {}
 }
