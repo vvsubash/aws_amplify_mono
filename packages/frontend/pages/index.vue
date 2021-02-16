@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        frontend is awesome
+        frontend
       </h1>
       <div class="links">
         <a
